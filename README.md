@@ -1,5 +1,3 @@
-# Yelp_Dataset-Clustering-and-Classification
-
 
 # Data Analysis and Sentiment Labeling
 
@@ -65,3 +63,5 @@ The notebook provides:
 - Ensure the dataset is in JSON format and matches the expected schema for smooth execution.
 - For large datasets, consider optimizing memory usage (e.g., by loading data in chunks).
 
+## NOTE
+To access the dataset, please use the following link:  https://www.yelp.com/dataset
